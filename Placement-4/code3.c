@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main()
 {
     int even = 2, odd = 1, i, j, max = 5, row = 5;
@@ -19,7 +18,7 @@ int main()
             }
             else
             {
-                printf("*"); // I included star instead of space for better representation
+                printf(" ");
             }
         }
         printf("\n");
