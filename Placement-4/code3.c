@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+
 int main()
 {
     int even = 2, odd = 1, i, j, max = 5, row = 5;
